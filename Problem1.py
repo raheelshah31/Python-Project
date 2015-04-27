@@ -1,5 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 dict = {}  # empty dictionary
 dict[0] = 0

@@ -1,0 +1,77 @@
+
+Conversation opened. 1 read message.
+
+Skip to content
+Using Gmail with screen readers
++Raheel
+Search
+
+
+
+Take me to Inbox
+Gmail
+COMPOSE
+Labels
+Inbox (953)
+Starred
+Important
+Chats
+Sent Mail
+Drafts (163)
+Circles
+More 
+Hangouts
+
+ 
+ 
+  More 
+  
+ 
+Print all In new window
+Creative Virtual - Application Engineer - Python Problems
+Inbox
+x 
+
+Iain Leckie <iain@creativevirtual.com>
+4:15 PM (7 hours ago)
+
+to me, Shantanu, Mugdha 
+Hi Raheel, 
+
+Apologies in the delay in getting this to you. Forgot to hit send on the email on friday :(
+
+As such I don't require the return of this until later in the week. Thurs / Fri would be acceptable. 
+
+As I explained on Friday, I'd like you to complete the following small problems using Python (2.7) and post the completed solutions to your github user account. 
+Please use a separate python file for each problem. 
+
+Once this is done, simply send me a link to your github user page and I'll take a look. 
+
+Do get in touch if you have any questions or issues. 
+
+Thanks, 
+Iain
+
+
+
+Problem 1:
+
+If the numbers 1 to 5 are written out in words: one, two, three, four, five, then there are 3 + 3 + 5 + 4 + 4 = 19 letters used in total.
+
+If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used?
+
+NOTE: Do not count spaces or hyphens. For example, 342 (three hundred and forty-two) contains 23 letters and 115 (one hundred and fifteen) contains 20 letters. The use of "and" when writing out numbers is in compliance with British usage as above.
+
+
+Problem 2:
+
+Write a program that will take a text file as input and return a csv report listing alphabetically all the words in the file and the number of occurrences of each.
+
+	
+Click here to Reply, Reply to all, or Forward
+13.27 GB (88%) of 15 GB used
+Manage
+Terms - Privacy
+Last account activity: 12 minutes ago
+Details
+Click to activate the Linkwok Extension. Drag to move the button around.
